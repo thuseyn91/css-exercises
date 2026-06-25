@@ -5,7 +5,7 @@
     "DejaVu Sans",
     sans-serif
 }
-.odd.cool {
+.cool {
    font-size: 24px;
 } 
 #id1 {
@@ -14,6 +14,5 @@
 }
 #id2 {
     background-color:rgb(27, 175, 88);
-    font-size: 24px;
      font-weight: bold;
 }
