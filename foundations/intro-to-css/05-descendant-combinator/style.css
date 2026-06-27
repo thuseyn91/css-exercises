@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.container .text {
+  color: red;
+  background-color: yellow;
+  font-size: 20px;
+  text-align: center;
+}
+/* all of this works */
+/* .container p {
+  color: red;
+  background-color: yellow;
+  font-size: 20px;
+  text-align: center;
+} */
+/* div p {
+  color: blue;
+  background-color: lightgray;
+  font-size: 18px;
+  text-align: left;
+} */
